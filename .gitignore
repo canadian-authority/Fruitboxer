@@ -1,0 +1,11 @@
+.venv/
+.python/
+.idea/
+__pycache__/
+*.pyc
+
+debug_*.png
+fruit_box_*.png
+fruit_box_*.json
+*_candidate.png
+*_candidate.json
